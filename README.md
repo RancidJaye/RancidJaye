@@ -5,22 +5,22 @@
 <h2>🖥️ IT Projects</h2>
 
 ### 🔹 Active Directory
-- **Active Directory Home Lab**  
-- **Microsoft Azure: Setting up Active Directory using VMs**  
+- Active Directory Home Lab  
+- Microsoft Azure: Setting up Active Directory using VMs  
 
 ### 🔹 osTicket
-- **osTicket: Ticketing System Setup, Installation, and Management**  
-- **osTicket: Ticket Lifecycle Example**  
+- osTicket: Ticketing System Setup, Installation, and Management  
+- osTicket: Ticket Lifecycle Example  
 
 ### 🔹 Microsoft Azure
-- **Microsoft Azure: Network Security Groups (NSGs)**  
-- **Microsoft Azure: Monitoring Network Activity and Packets using Wireshark**  
+- Microsoft Azure: Network Security Groups (NSGs)  
+- Microsoft Azure: Monitoring Network Activity and Packets using Wireshark  
 
 ### 🔹 VPN
-- **VPN Setup in Virtual Machine**  
+- VPN Setup in Virtual Machine  
 
 ### 🔹 Python
-- **Energy Bill Calculator using Python**  
+- Energy Bill Calculator using Python  
 
 ---
 
