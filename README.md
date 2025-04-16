@@ -8,16 +8,12 @@
 - [Active Directory Home Lab](https://github.com/RancidJaye/Active-Directory-Home-Lab)  
 - [Microsoft Azure: Setting up Active Directory using VMs](https://github.com/RancidJaye/Microsoft-Azure-VM-NSG-Setup) 
 
-### 🔹 osTicket
-- [osTicket: Ticketing System Setup, Installation, and Management](https://github.com/RancidJaye/osTicket-Lab) 
-- [osTicket: Ticket Lifecycle Example](https://github.com/RancidJaye/osTicket-Lab)  
-
 ### 🔹 Microsoft Azure
 - [Microsoft Azure: Network Security Groups (NSGs)](https://github.com/RancidJaye/Microsoft-Azure-VM-NSG-Setup)  
 - [Microsoft Azure: Monitoring Network Activity and Packets using Wireshark](https://github.com/RancidJaye/Microsoft-Azure-VM-NSG-Setup) 
 
-### 🔹 VPN
-- [VPN Setup in Virtual Machine](https://github.com/RancidJaye/VPN-Setup-in-VM)  
+### 🔹 Virtual Machines
+- [UBUNTU](https://github.com/RancidJaye/VPN-Setup-in-VM)  
 
 ### 🔹 Python
 - [Energy Bill Calculator using Python](https://github.com/RancidJaye/Energy-Bill-Calculator-with-python)  
